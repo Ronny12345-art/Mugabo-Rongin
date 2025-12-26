@@ -1,14 +1,14 @@
-# MRcutter – Cybersecurity Tool by Ronny Rogers
+# MRcutter – Cybersecurity Tool by Mugabo Rongin
 
 A powerful cybersecurity tool developed for ethical hacking, penetration testing, and security research.
 
 ---
 
-## 👤 Developer – Ronny Rogers
+## 👤 Developer – Mugabo Rongin
 
 ![Ronny Rogers – Cybersecurity Specialist](https://raw.githubusercontent.com/Ronny12345-art/ronny-rogers/refs/heads/main/ronny-rogers.png)
 
-**Ronny Rogers**  
+**Mugabo Rongin**  
 Cybersecurity Specialist • Developer • Pentester • Ethical Hacker  
 
 I am the **creator and developer of the MRcutter tool**, focused on building practical tools for ethical hacking, red team simulations, and cybersecurity education.
@@ -39,7 +39,7 @@ MRcutter is a cybersecurity tool designed for:
 - Security research  
 - Cybersecurity education  
 
-MRcutter is developed by **Ronny Rogers**, a cybersecurity specialist and ethical hacker focused on penetration testing and open-source security tools.
+MRcutter is developed by **Mugabo Rongin**, a cybersecurity specialist and ethical hacker focused on penetration testing and open-source security tools.
 
 ⚠️ **Disclaimer:**  
 This tool is intended **ONLY for legal and ethical use** on systems you own or have permission to test.
@@ -57,12 +57,12 @@ This tool is intended **ONLY for legal and ethical use** on systems you own or h
 ## 📌 Author & Credits
 
 **MRcutter**  
-Developed and maintained by **Ronny Rogers**  
+Developed and maintained by **Mugabo Rongin**  
 Cybersecurity Specialist & Ethical Hacker  
 
 ---
 
 🔎 **Keywords:**  
-Ronny Rogers, MRcutter, cybersecurity specialist, ethical hacker, penetration tester, open-source security tools
+Mugabo Rongin, MRcutter, cybersecurity specialist, ethical hacker, penetration tester, open-source security tools
 
 ⭐ If you find this project useful, please **star the repository**.
